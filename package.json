@@ -1,0 +1,19 @@
+{
+  "name": "product_stock_monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abortcontroller-polyfill": "^1.7.3",
+    "discord-webhook-node": "^1.1.8",
+    "got": "^11.8.2",
+    "node-html-parser": "^4.1.5",
+    "node-notifier": "^10.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
